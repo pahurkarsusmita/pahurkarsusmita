@@ -1,4 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/pahurkarsusmita/pahurkarsusmita/assets/171799781/8b4d0937-18ae-47e6-b51c-033ec4060576)
+- ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/pahurkarsusmita/pahurkarsusmita/assets/171799781/971eccec-13a7-44db-a8f6-6fd0318ea2ba)
+
 - 👋 Hi, I’m @pahurkarsusmita
 
 - 🌱 Skills: Excel , SQL , Python , Tableau , PowerBi.
